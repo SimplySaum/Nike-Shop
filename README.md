@@ -1,6 +1,6 @@
-# nike_shop_app_new
+# Nike Shop App
 
-A new Flutter project.
+My First flutter project directed towards learning basic ui designing and implementing basic functionalities
 
 ## Getting Started
 
