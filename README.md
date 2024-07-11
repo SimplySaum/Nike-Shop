@@ -1,6 +1,6 @@
 # Nike Shop App
 
-![Banner Image](./Banner Github.png)
+![Banner Image](./BannerGithub.png)
 
 My First flutter project directed towards learning basic ui designing and implementing basic functionalities
 
